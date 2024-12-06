@@ -56,4 +56,5 @@ As a neurodivergent individual with specific sensory and mobility needs, I want 
 
 ![Storyboard](/files/story5.JPG)
 
-[Previous](https://socialwisevr-cmu.github.io/solution) [Next](https://socialwisevr-cmu.github.io/gantt)
+<p style="text-align:center"><a href="https://socialwisevr-cmu.github.io/solution">Previous</a></p>
+<p style="text-align:center"><a href="https://socialwisevr-cmu.github.io/gantt">Next</a></p>

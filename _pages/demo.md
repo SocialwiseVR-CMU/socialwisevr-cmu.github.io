@@ -7,12 +7,19 @@ author_profile: false
 
 {% include base_path %}
 
-<iframe width="560" height="315" src="https://youtu.be/DGvMduN8oKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://youtube.com/shorts/LjylWxh92tQ?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+2D Application Demo
+=====
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/DGvMduN8oKg" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+3D Application Overview (Supplement)
+=====
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/LjylWxh92tQ" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>

@@ -19,4 +19,4 @@ Assigned user stories per teammate
 ----
 ![Assigned user stories per teammate](/files/jira2.png)
 
-[Previous](https://socialwisevr-cmu.github.io/user-stories)
+<p style="text-align:center"><a href="https://socialwisevr-cmu.github.io/user-stories">Previous</a></p>
