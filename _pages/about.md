@@ -6,7 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Socialwise VR, Nicole Lockerman
+
+This is a final report for a project done for Carnegie Mellon's 05-899 Celebrating Accessibility class. 
+
+**Project Members**: Amanda Li, Rebecca Jiang, Xiang Chen, Yvette Wang
+
+**Client**: [Socialwise VR](https://www.socialwisevr.com/), Nicole Lockerman
 
 Project Context
 ======
