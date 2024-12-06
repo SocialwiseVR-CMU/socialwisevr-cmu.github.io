@@ -7,9 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-Project Requirements
-======
-
 The requirements for our project were established through collaboration with our partner organization, SocialWise VR, and iterative feedback from user testing. The primary goal was to develop an onboarding course that enhances the accessibility and usability of the SocialWise VR platform for neurodivergent young adults. Below is a detailed description of the requirements agreed upon and executed in our project:
 
 Agreed Requirements with Partner Organization
