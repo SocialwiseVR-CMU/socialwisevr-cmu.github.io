@@ -11,6 +11,14 @@ author_profile: false
 
 <iframe width="560" height="315" src="https://youtube.com/shorts/LjylWxh92tQ?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/DGvMduN8oKg" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+
 We created both a 2D version and a 3D version of the onboarding module to accommodate different user needs. The 2D version is created in Figma where all content is displayed on a laptop screen and users can interact with all of the content using a mouse. The 2D version makes it convenient to share the module content across different platforms and also simplifies the onboarding process without the risk of overwhelming users before transitioning to a 3D environment. The 3D version helps users familiarize with the 3D environment before entering the main course. It also seamlessly integrates into the SWVR app for a cohesive experience.
 
 To create the 3D VR version of the introductory course, we followed a structured process that integrated design, development, and testing:

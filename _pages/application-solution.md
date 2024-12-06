@@ -13,4 +13,5 @@ By prioritizing **high-impact, low-effort stories**, we aim to deliver critical 
 
 Continue navigating to explore what we prioritized and what we considered.
 
-[->](https://socialwisevr-cmu.github.io/user-stories)
+<p style="text-align:center"><a href="https://socialwisevr-cmu.github.io/user-stories">Next</a></p>
+<!-- [Next](https://socialwisevr-cmu.github.io/user-stories) -->

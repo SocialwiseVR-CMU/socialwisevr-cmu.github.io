@@ -19,7 +19,7 @@ Tasks We Asked the User to Do
 
 Positive Aspects of the Evaluation
 =======
-- The application was clear and straightforward (P2, P3)
+- The application was clear and straightforward (P2, P3, P4)
 - P1 expressed a positive attitude towards the usefulness for learning navigation in VR. 
 - It was also a good design choice to include a video clip of the actual Socialwise VR app in the tutorial to prep the users beforehand (P3). 
 

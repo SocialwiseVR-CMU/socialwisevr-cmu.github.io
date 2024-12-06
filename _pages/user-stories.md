@@ -30,20 +30,30 @@ SWVR Course Overview
 As a neurodivergent individual new to SWVR, I want an overview of what to expect from the course, so I can assess if it aligns with my goals and determine if it’s the right fit for me.
 [image]
 
+![Storyboard](/files/story1.JPG)
+
 Introduction to VR interaction in the course
 -----
 As a neurodivergent individual who can feel overwhelmed by complex interactions, I need a straightforward introduction to the types of social interactions I’ll encounter in this course. This foundational training will help me navigate these interactions with confidence, reducing feelings of anxiety or confusion.
+
+![Storyboard](/files/story2.JPG)
 
 How to stop the course when feeling overwhelmed
 ------
 As a neurodivergent individual who sometimes feels overwhelmed by sensory input or complex tasks, I need a clear and easy way to pause or step away from the course. This option will allow me to regain my sense of calm and return to the course when I’m ready, without losing my progress or feeling pressured to continue before I’m comfortable.
 
+![Storyboard](/files/story3.JPG)
+
 VR Equipment Guidance (How to Use the Controller)
 -----
 As a neurodivergent individual unfamiliar with VR technology, I want a clear, step-by-step guide on how to use the controller, so I can confidently perform essential actions like pausing, adjusting settings, and exiting the course without feeling frustrated or overwhelmed.
+
+![Storyboard](/files/story4.JPG)
 
 VR Accessibility Features (Vision, Mobility, Hearing)
 ------
 As a neurodivergent individual with specific sensory and mobility needs, I want customizable accessibility options like volume control, captions, and adjustable text size, so I can tailor the VR environment to my preferences and engage with the course comfortably.
 
-[<-](https://socialwisevr-cmu.github.io/solution) [->](https://socialwisevr-cmu.github.io/gantt)
+![Storyboard](/files/story5.JPG)
+
+[Previous](https://socialwisevr-cmu.github.io/solution) [Next](https://socialwisevr-cmu.github.io/gantt)

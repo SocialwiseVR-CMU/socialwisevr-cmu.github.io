@@ -11,6 +11,12 @@ Based on the user stories and milestone timeline, we organized the project in Ji
 
 [Our Jira](https://socialwise.atlassian.net/jira/core/projects/SWVR/board?atlOrigin=eyJpIjoiYWNlZTgwMjdlNTRmNDc2OThlNTkwNzc3MjE2ZDg5NGMiLCJwIjoiaiJ9)
 
-Screenshots
+Completed user stories in Jira
+----
+![Completed user stories in Jira](/files/jira1.png)
 
-[<-](https://socialwisevr-cmu.github.io/user-stories)
+Assigned user stories per teammate
+----
+![Assigned user stories per teammate](/files/jira2.png)
+
+[Previous](https://socialwisevr-cmu.github.io/user-stories)
