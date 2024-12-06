@@ -5,6 +5,21 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Project Requirements"
+    url: /req/
+
+  - title: "Application Solution"
+    url: /solution/
+
+  - title: "Pilot Test"
+    url: /pilot-test/
+
+  - title: "Demo"
+    url: /demo/
+
+  - title: "Client Feedback"
+    url: /client-feedback/
+
   - title: "Publications"
     url: /publications/
 
@@ -26,8 +41,4 @@ main:
   - title: "Guide"
     url: /markdown/
 
-  - title: "Project Requirements"
-    url: /req/
 
-  - title: "Application Solution"
-    url: /solution/
