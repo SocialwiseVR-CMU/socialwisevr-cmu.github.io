@@ -28,7 +28,6 @@ User Stories
 SWVR Course Overview
 ----
 As a neurodivergent individual new to SWVR, I want an overview of what to expect from the course, so I can assess if it aligns with my goals and determine if it’s the right fit for me.
-[image]
 
 ![Storyboard](/files/story1.JPG)
 
@@ -56,5 +55,4 @@ As a neurodivergent individual with specific sensory and mobility needs, I want 
 
 ![Storyboard](/files/story5.JPG)
 
-<p style="text-align:left"><a href="https://socialwisevr-cmu.github.io/solution">Previous</a></p>
-<p style="text-align:right"><a href="https://socialwisevr-cmu.github.io/gantt">Next</a></p>
+<p style="text-align:left"><a href="https://socialwisevr-cmu.github.io/solution">Previous</a></p><p style="text-align:right"><a href="https://socialwisevr-cmu.github.io/gantt">Next</a></p>
