@@ -55,7 +55,7 @@ As a neurodivergent individual with specific sensory and mobility needs, I want 
 
 ![Storyboard](/files/story5.JPG)
 
-<div style="display: flex; justify-content: space-between align-items: center;"> 
+<div style="display: flex; justify-content: space-between; align-items: center;"> 
     <p><a href="https://socialwisevr-cmu.github.io/solution">Previous</a></p>
     <p><a href="https://socialwisevr-cmu.github.io/gantt">Next</a></p> 
 </div> 
