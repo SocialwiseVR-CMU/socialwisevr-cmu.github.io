@@ -8,7 +8,7 @@ author_profile: false
 {% include base_path %}
 
 2D Application Demo
-=====
+----
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/DGvMduN8oKg" 
         frameborder="0" 
@@ -16,8 +16,9 @@ author_profile: false
         allowfullscreen>
 </iframe>
 
+
 3D Application Overview (Supplement)
-=====
+-----
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/LjylWxh92tQ" 
         frameborder="0" 
